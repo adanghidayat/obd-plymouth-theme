@@ -1,0 +1,12 @@
+Source: obd-plymouth-theme
+Section: X11
+Priority: optional
+Maintainer: OBD Developers <system@okusi.net>
+Build-Depends: debhelper (>= 7)
+Standards-Version: 3.8.3
+Homepage: http://okusi.net/
+
+Package: obd-plymouth-theme
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}, plymouth
+Description: tema plymouth untuk okusi bussiness desktop

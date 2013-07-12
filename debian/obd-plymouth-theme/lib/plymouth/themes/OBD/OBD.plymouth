@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=OBD
+Description=A theme for Okusi Business Desktop
+ModuleName=script
+
+[script]
+ImageDir=/lib/plymouth/themes/OBD
+ScriptFile=/lib/plymouth/themes/OBD/OBD.script

@@ -1,0 +1,12 @@
+obd-plymouth-theme (0.6.1ubuntu9) precise; urgency=low
+
+  * fixing 
+
+ -- Adang Hidayat <adang@okusi.net>  Fri, 12 Jul 2013 10:29:33 +0700
+
+obd-plymouth-theme (0.6.1ubuntu8) precise; urgency=low
+
+  * initial release for okusi plymouth theme
+  * replace background color to black at OBD.script
+
+ -- Adang Hidayat <adang@okusi.net>  Fri, 12 Jul 2013 10:26:24 +0700

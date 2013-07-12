@@ -1,0 +1,17 @@
+Format-Specification: http://wiki.debian.org/Proposals/CopyrightFormat
+Upstream-Name: BlankOn Artwork
+Upstream-Maintainer: BlankOn Developers <BlankOn-dev@googlegroups.com.net>
+
+Files: lib/
+Copyright: Copyright (C) 2009 Canonical Ltd.
+           Copyright (C) 2010 Rafael Laguna <rafaellaguna@gmail.com>
+
+Files: lib/
+Copyright: Copyright (C) 2010 BlankOn Developers.
+	   Copyright (c) 2010 Simon Liling <simonliling@gmail.com>
+           
+License: GPL-2+
+ On Debian systems the full text of the GNU General Public License can be found
+ in the `/usr/share/common-licenses/GPL-2' file.
+
+
