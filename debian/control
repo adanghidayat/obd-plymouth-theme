@@ -9,4 +9,4 @@ Homepage: http://okusi.net/
 Package: obd-plymouth-theme
 Architecture: all
 Depends: ${shlibs:Depends}, ${misc:Depends}, plymouth
-Description: tema plymouth untuk okusi bussiness desktop
+Description: Plymouth Theme for Okusi Business Desktop

@@ -1,5 +1,5 @@
 Package: obd-plymouth-theme
-Version: 0.6.1ubuntu9
+Version: 0.6.1ubuntu10
 Architecture: all
 Maintainer: OBD Developers <system@okusi.net>
 Installed-Size: 85
@@ -7,4 +7,4 @@ Depends: plymouth
 Section: X11
 Priority: optional
 Homepage: http://okusi.net/
-Description: tema plymouth untuk okusi bussiness desktop
+Description: Plymouth Theme for Okusi Business Desktop
