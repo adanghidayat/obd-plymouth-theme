@@ -9,6 +9,10 @@ Copyright: Copyright (C) 2009 Canonical Ltd.
 Files: lib/
 Copyright: Copyright (C) 2010 BlankOn Developers.
 	   Copyright (c) 2010 Simon Liling <simonliling@gmail.com>
+
+Files: lib/
+Copyright: Copyright (C) 2013 Okusi Associates.
+	   Copyright (C) 2013 Adang Hidayat <adang@okusi.net>
            
 License: GPL-2+
  On Debian systems the full text of the GNU General Public License can be found
